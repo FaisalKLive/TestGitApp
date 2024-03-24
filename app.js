@@ -24,4 +24,4 @@ $
 
 */
 
-console.log("first Git App !!!")
+console.log("********** first Git App !!! **************")
